@@ -1,4 +1,0 @@
-creditcard.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-*.joblib filter=lfs diff=lfs merge=lfs -text
-fraud_detection/backend/creditcard.csv filter=lfs diff=lfs merge=lfs -text
